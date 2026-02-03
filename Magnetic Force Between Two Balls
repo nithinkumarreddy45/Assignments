@@ -1,0 +1,39 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+bool canPlace(vector<int>& pos, int m, int dist) {
+    int count = 1, last = pos[0];
+
+    for (int i = 1; i < pos.size(); i++) {
+        if (pos[i] - last >= dist) {
+            count++;
+            last = pos[i];
+        }
+        if (count == m)
+            return true;
+    }
+    return false;
+}
+
+int main() {
+    vector<int> pos = {1, 2, 3, 4, 7};
+    int m = 3;
+
+    sort(pos.begin(), pos.end());
+
+    int low = 1, high = pos.back() - pos[0], ans = 0;
+
+    while (low <= high) {
+        int mid = (low + high) / 2;
+
+        if (canPlace(pos, m, mid)) {
+            ans = mid;
+            low = mid + 1;
+        } else {
+            high = mid - 1;
+        }
+    }
+
+    cout << ans;
+    return 0;
+}
