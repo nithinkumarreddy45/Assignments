@@ -1,0 +1,26 @@
+sku_id,starting_on_hand_units,forecast_demand_12w,units_expiring_unconsumed_12w,expiry_risk_pct_of_starting_stock,risk_value_estimate,recommended_order_units,category,unit_cost,lead_time_weeks
+MED001,677,1081.1,0,0.0,0.0,0,Analgesic,8.31,3
+MED002,358,500.3,0,0.0,0.0,0,Analgesic,3.6,3
+MED003,486,963.0,0,0.0,0.0,0,Analgesic,3.55,3
+MED004,230,482.5,0,0.0,0.0,0,Analgesic,6.72,2
+MED005,432,849.2,0,0.0,0.0,0,Analgesic,14.05,1
+MED006,401,593.9,0,0.0,0.0,0,Analgesic,7.03,1
+MED007,168,302.8,0,0.0,0.0,0,Analgesic,13.74,3
+MED008,759,842.6,0,0.0,0.0,0,Analgesic,9.61,3
+MED009,251,745.1,0,0.0,0.0,0,Cold and Flu,10.48,1
+MED010,215,609.8,0,0.0,0.0,0,Cold and Flu,13.21,3
+MED011,259,535.4,0,0.0,0.0,0,Cold and Flu,15.62,3
+MED012,434,821.8,0,0.0,0.0,0,Cold and Flu,9.34,3
+MED013,297,475.2,0,0.0,0.0,0,Cold and Flu,2.48,1
+MED014,301,501.2,0,0.0,0.0,0,Cold and Flu,17.44,2
+MED015,329,582.4,0,0.0,0.0,0,Chronic Care,11.59,1
+MED016,183,322.7,0,0.0,0.0,0,Chronic Care,17.51,3
+MED017,474,688.1,52,11.0,358.8,0,Chronic Care,6.9,1
+MED018,148,258.8,0,0.0,0.0,0,Chronic Care,13.32,3
+MED019,451,777.8,0,0.0,0.0,0,Chronic Care,7.26,3
+MED020,272,520.9,0,0.0,0.0,0,Chronic Care,9.87,1
+MED021,276,342.6,0,0.0,0.0,0,Gastrointestinal,2.71,3
+MED022,410,889.4,0,0.0,0.0,0,Gastrointestinal,13.09,1
+MED023,631,898.4,0,0.0,0.0,0,Gastrointestinal,12.12,1
+MED024,226,372.1,0,0.0,0.0,0,Gastrointestinal,11.33,2
+
