@@ -1,0 +1,11 @@
+{
+  "n_skus": 24,
+  "history_weeks_per_sku": 104,
+  "backtest_horizon_weeks": 12,
+  "forecast_horizon_weeks": 12,
+  "aggregate_wape": 0.134803171702474,
+  "naive_4_week_average_wape": 0.13746770025839794,
+  "wape_change_vs_naive_pct": 1.938294269064975,
+  "mean_sku_mae": 6.33996166913198,
+  "snapshot_date": "2026-10-26"
+}
