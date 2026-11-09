@@ -2,6 +2,8 @@
 
 A local, reproducible AI/ML internship project that forecasts weekly medicine demand and estimates short-dated inventory exposure with a first-expiry-first-out (FEFO) simulation.
 
+[Open the notebook in Google Colab](https://colab.research.google.com/github/nithinkumarreddy45/Assignments/blob/main/pharmacy-medicine-demand-expiry-risk-forecasting/Pharmacy_Medicine_Demand_Expiry_Risk_Forecasting.ipynb)
+
 ## What is included
 
 - 24 fictional medicine SKUs across four categories and 104 weeks of synthetic demand
