@@ -1,0 +1,26 @@
+sku_id,category,unit_cost,lead_time_weeks
+MED001,Analgesic,8.31,3
+MED002,Analgesic,3.6,3
+MED003,Analgesic,3.55,3
+MED004,Analgesic,6.72,2
+MED005,Analgesic,14.05,1
+MED006,Analgesic,7.03,1
+MED007,Analgesic,13.74,3
+MED008,Analgesic,9.61,3
+MED009,Cold and Flu,10.48,1
+MED010,Cold and Flu,13.21,3
+MED011,Cold and Flu,15.62,3
+MED012,Cold and Flu,9.34,3
+MED013,Cold and Flu,2.48,1
+MED014,Cold and Flu,17.44,2
+MED015,Chronic Care,11.59,1
+MED016,Chronic Care,17.51,3
+MED017,Chronic Care,6.9,1
+MED018,Chronic Care,13.32,3
+MED019,Chronic Care,7.26,3
+MED020,Chronic Care,9.87,1
+MED021,Gastrointestinal,2.71,3
+MED022,Gastrointestinal,13.09,1
+MED023,Gastrointestinal,12.12,1
+MED024,Gastrointestinal,11.33,2
+
